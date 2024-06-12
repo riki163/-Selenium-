@@ -1,6 +1,4 @@
-# Основоный репзиторий проекта находится по [https://github.com/riki163/contact_manager](#link) 
-
+# Основоный репзиторий проекта находится по [ссылке](#https://github.com/riki163/contact_manager)
+  
 #Презентация - []
 
-
-[here](#place-1)
